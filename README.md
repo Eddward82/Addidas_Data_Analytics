@@ -7,7 +7,9 @@ The data used for this project was downloaded from Kaggle. Kaggle is the world's
 ## Tech Stack
 The tools used in this project include Excel, Power Query Editor, and Power BI
 ## Analysis
-The data were cleaned using Excel, Power and Query Editor and was analysed using Powrr BI. The analyses carried out include Total Profit, Average Price/Unit, Total Sales, Total Units Sold,Average Margin, Total Sales per Month, Total Sales Per State, Total Sales Per Sales Method, Total Sales Per Region, and Total Sales Per Product. 
+The data were cleaned using Excel, Power and Query Editor and was analysed using Powrr BI. The analyses carried out include Total Profit, Average Price/Unit, Total Sales, Total Units Sold,Average Margin, Total Sales per Month, Total Sales Per State, Total Sales Per Sales Method, Total Sales Per Region, and Total Sales Per Product. The dashboard designed is shown below:
+![image](https://github.com/user-attachments/assets/2ed98fab-8a53-43b7-b536-08abe8b44af8)
+
 
 ## Key Findings
 
